@@ -20,6 +20,21 @@ This project aims to create an AI agent that acts as a helpful devotee of the Yo
 - `Yoga Sutras of Patanjali RAG chat.json`: Exported Langflow project for users to import
 - `YogaSutrasOfPatanjali-pg2526.txt`: Full text of the Yoga Sutras of Patanjali from Project Gutenberg
 
+## Using GitHub Codespaces
+
+This project is configured to work with GitHub Codespaces, allowing you to start developing quickly without setting up a local environment.
+
+To start using Codespaces:
+
+1. Go to the GitHub repository page
+2. Click on the "Code" button
+3. Select the "Codespaces" tab
+4. Click on "Create codespace on main"
+
+This will create a new Codespace with all necessary dependencies installed. You can start developing right away!
+
+Note: The first time you create a Codespace, it may take a few minutes to set up.
+
 ## Setup
 
 1. Clone the repository:
