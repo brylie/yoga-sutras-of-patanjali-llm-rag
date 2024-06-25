@@ -13,5 +13,5 @@
     "forwardPorts": [
         7860
     ],
-    "postStartCommand": "langflow run"
+    "postStartCommand": "bash start_langflow.sh"
 }
