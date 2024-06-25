@@ -2,7 +2,7 @@
 
 Chat with the Yoga Sutras of Patanjali using Large Language Models and Retrieval-Augmented Generation (RAG).
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.dev/brylie/yoga-sutras-of-patanjali-llm-rag)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/brylie/yoga-sutras-of-patanjali-llm-rag?quickstart=1)
 
 
 ## Project Goal
