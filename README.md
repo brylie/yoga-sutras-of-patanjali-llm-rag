@@ -2,6 +2,9 @@
 
 Chat with the Yoga Sutras of Patanjali using Large Language Models and Retrieval-Augmented Generation (RAG).
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.dev/brylie/yoga-sutras-of-patanjali-llm-rag)
+
+
 ## Project Goal
 
 This project aims to create an AI agent that acts as a helpful devotee of the Yoga Sutras of Patanjali. The agent responds to user input with answers based on the yoga sutras. When the conversation steers too far away from the yoga sutras or there is no relevance to the yogic wisdom and philosophy, the agent politely steers the discussion back towards the topic of yoga and the Sutras of Patanjali.
@@ -31,9 +34,12 @@ To start using Codespaces:
 3. Select the "Codespaces" tab
 4. Click on "Create codespace on main"
 
-This will create a new Codespace with all necessary dependencies installed. You can start developing right away!
+This will create a new Codespace with all necessary dependencies installed. Langflow will start automatically, and you can access it at http://localhost:7860.
 
-Note: The first time you create a Codespace, it may take a few minutes to set up.
+Note: 
+- The first time you create a Codespace, it may take a few minutes to set up.
+- Langflow will be running in the terminal. To stop it, use Ctrl+C in that terminal.
+- To start Langflow again, run 'langflow run' in the terminal.
 
 ## Setup
 
